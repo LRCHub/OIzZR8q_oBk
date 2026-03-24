@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ᴵ ʷⁱˢʰ ᴵ ᶜᵒᵘˡᵈ ᵍᵒ ᵇᵃᶜᵏ ⁱⁿ ᵗⁱᵐᵉ",
+  "base_artist": "corpsefish",
+  "createdAt": "2026-03-24T06:38:53.547480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ᴵ ʷⁱˢʰ ᴵ ᶜᵒᵘˡᵈ ᵍᵒ ᵇᵃᶜᵏ ⁱⁿ ᵗⁱᵐᵉ",
+      "artist": "corpsefish",
+      "has_synced": true,
+      "path": "select/01_I_wish_I_could_go_back_in_time_corpsefish.lrc"
+    }
+  ]
+}
